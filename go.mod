@@ -113,7 +113,7 @@ require (
 	golang.org/x/sys v0.11.0
 	golang.org/x/text v0.12.0
 	golang.org/x/tools v0.12.0
-	google.golang.org/grpc v1.57.0
+	google.golang.org/grpc v1.57.1
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/ini.v1 v1.67.0
