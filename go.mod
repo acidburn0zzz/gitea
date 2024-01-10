@@ -44,8 +44,8 @@ require (
 	github.com/go-co-op/gocron v1.31.1
 	github.com/go-enry/go-enry/v2 v2.8.4
 	github.com/go-fed/httpsig v1.1.1-0.20201223112313-55836744818e
-	github.com/go-git/go-billy/v5 v5.4.1
-	github.com/go-git/go-git/v5 v5.8.1
+	github.com/go-git/go-billy/v5 v5.5.0
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/go-ldap/ldap/v3 v3.4.5
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/go-swagger/go-swagger v0.30.5
@@ -106,13 +106,13 @@ require (
 	github.com/yuin/goldmark v1.5.5
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
-	golang.org/x/crypto v0.12.0
+	golang.org/x/crypto v0.16.0
 	golang.org/x/image v0.11.0
-	golang.org/x/net v0.14.0
+	golang.org/x/net v0.19.0
 	golang.org/x/oauth2 v0.11.0
-	golang.org/x/sys v0.11.0
-	golang.org/x/text v0.12.0
-	golang.org/x/tools v0.12.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/text v0.14.0
+	golang.org/x/tools v0.13.0
 	google.golang.org/grpc v1.57.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
@@ -136,9 +136,8 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Masterminds/sprig/v3 v3.2.3 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
+	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
 	github.com/RoaringBitmap/roaring v1.3.0 // indirect
-	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
@@ -170,6 +169,7 @@ require (
 	github.com/couchbase/gomemcached v0.2.1 // indirect
 	github.com/couchbase/goutils v0.1.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
+	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dlclark/regexp2 v1.10.0 // indirect
@@ -243,7 +243,6 @@ require (
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
-	github.com/onsi/gomega v1.27.8 // indirect
 	github.com/paulmach/orb v0.10.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.9 // indirect
 	github.com/pierrec/lz4/v4 v4.1.18 // indirect
@@ -262,7 +261,7 @@ require (
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/shurcooL/httpfs v0.0.0-20230704072500-f1e31cf0ba5c // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/skeema/knownhosts v1.2.0 // indirect
+	github.com/skeema/knownhosts v1.2.1 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
